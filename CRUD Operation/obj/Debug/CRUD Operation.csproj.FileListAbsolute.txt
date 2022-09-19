@@ -1,0 +1,11 @@
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe.config
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.exe
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\bin\Debug\CRUD Operation.pdb
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.AssemblyReference.cache
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.SuggestedBindingRedirects.cache
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Form1.resources
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD_Operation.Properties.Resources.resources
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.GenerateResource.cache
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.csproj.CoreCompileInputs.cache
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.exe
+C:\Users\najwa\Desktop\Done Api\CRUD Operation\CRUD Operation\obj\Debug\CRUD Operation.pdb
